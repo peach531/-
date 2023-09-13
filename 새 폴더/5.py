@@ -1,0 +1,5 @@
+name =  input("이름 : ")
+nai = input("나이 : ")
+ki = input("키 : ")
+print("== 자기 소개하기 ==")
+print("이름 : %s 나이: %s 키 : %s"%(name,nai,ki))
