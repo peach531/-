@@ -1,4 +1,3 @@
-a = 1 + 2
-b = 3 + 4
+import random as rd
+a = rd.random()
 print(a)
-print(b)

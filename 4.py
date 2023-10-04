@@ -1,1 +1,3 @@
-print("*\n**\n***\n****\n*****")
+from random import *
+a = randint(1,6)
+print(a)

@@ -1,1 +1,3 @@
-print(input("What's your favorite fruit?"))
+from random import *
+a = randint(1,10)
+print(a)
