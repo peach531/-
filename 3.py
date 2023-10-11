@@ -1,3 +1,2 @@
-from random import *
-a = randint(1,10)
-print(a)
+a = "Carpe Diem!"
+print(a[-11:-6])

@@ -1,3 +1,5 @@
-print(input("이름 : "))
-print(input("학년 : "))
-print(input("반 : "))
+num = input('주민 번호 : ')
+a = num[2:4]
+b = num[4:6]
+print('생일 : %s월 %s일' % (a,b))
+

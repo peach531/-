@@ -1,3 +1,5 @@
-import turtle
-turtle.circle(100,steps = 6)
-turtle.done()
+a = []
+a.append(input('1 : '))
+a.append(input('2 : '))
+a.append(input('3 : '))
+print(a)
