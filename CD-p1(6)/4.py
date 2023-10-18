@@ -1,0 +1,7 @@
+a = set([1,2,3])
+a.add(4)
+print(a)
+a.update('abc')
+print(a)
+a.remove('c')
+print(a)
